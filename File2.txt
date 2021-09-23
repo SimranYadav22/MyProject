@@ -1,11 +1,12 @@
 Hello World!!!
 
-Change - WI4:Feature for payment gateway in-progress.
+Change 1 - WI4:Feature for payment gateway in-progress.
 
-Chnage - WI4 : check stash.
+Chnage 2 - WI4 : check stash.
 
-Change - WI5: To verify normal change.
+change 3 - by team mate on remote master for CR2 to verify rebash with conflict.
 
-change - Bug2:file2 updated to check pull from remote to local
+change 4 -Bug2:file2 updated to check pull from remote to local
 
-change - by team mate on remote master for CR2 to verify rebash with conflict.
+Chnage 5 - for WI6 for local master
+
