@@ -6,4 +6,6 @@ Chnage - WI4 : check stash.
 
 Change - WI5: To verify normal change.
 
-change-Bug2:file2 updated to check pull from remote to local
+change - Bug2:file2 updated to check pull from remote to local
+
+change - by team mate on remote master for CR2 to verify rebash with conflict.
