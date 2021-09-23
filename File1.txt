@@ -1,5 +1,7 @@
 Welcome to git
 
-Change for WI1 to chevk commit -am
+Change for WI1 to chevk commit -am.
 
-Change for Bug1  login feature
+Change for Bug1  login feature.
+
+Change for Bug2.
