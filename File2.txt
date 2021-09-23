@@ -5,3 +5,5 @@ Change - WI4:Feature for payment gateway in-progress.
 Chnage - WI4 : check stash.
 
 Change - WI5: To verify normal change.
+
+change-Bug2:file2 updated to check pull from remote to local
